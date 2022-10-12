@@ -1,5 +1,5 @@
 # Multiscal_concurrent_topology_optimization
-Matlab code for multiscale Multiphysics optimization of porous structure
+Matlab code for multiscale Multiphysics optimization of porous structure.
 This work is for reserch propuse only. When use it please site the author as:
 
 Al Ali M, Shimoda M. 
